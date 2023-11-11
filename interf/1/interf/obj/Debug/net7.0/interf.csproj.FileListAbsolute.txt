@@ -1,0 +1,14 @@
+C:\Users\Dell G15\source\repos\interf\interf\bin\Debug\net7.0\interf.exe
+C:\Users\Dell G15\source\repos\interf\interf\bin\Debug\net7.0\interf.deps.json
+C:\Users\Dell G15\source\repos\interf\interf\bin\Debug\net7.0\interf.runtimeconfig.json
+C:\Users\Dell G15\source\repos\interf\interf\bin\Debug\net7.0\interf.dll
+C:\Users\Dell G15\source\repos\interf\interf\bin\Debug\net7.0\interf.pdb
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\interf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\interf.AssemblyInfoInputs.cache
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\interf.AssemblyInfo.cs
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\interf.csproj.CoreCompileInputs.cache
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\interf.dll
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\refint\interf.dll
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\interf.pdb
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\interf.genruntimeconfig.cache
+C:\Users\Dell G15\source\repos\interf\interf\obj\Debug\net7.0\ref\interf.dll
